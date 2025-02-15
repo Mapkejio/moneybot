@@ -10,4 +10,4 @@ env.bak/
 venv.bak/
 
 
-.db
+*.db
